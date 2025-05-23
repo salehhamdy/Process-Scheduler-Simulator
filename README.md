@@ -95,12 +95,3 @@ pyinstaller --onefile --noconsole --add-data "*.png;." main.py
 
 ---
 
-## License
-
-Released under the **MIT License**.  Feel free to fork, modify, and share.
-
----
-
-## Authors
-
-*Your names here* — course / personal project for Operating‑Systems scheduling practise.
